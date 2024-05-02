@@ -1,0 +1,44 @@
+form{
+    margin: 50px auto 0 auto;
+    width: 300;
+    background: #ccc;
+    height: 100px;
+    padding: 50px;
+    
+}
+
+.knapper{
+    margin: 50px auto 0 auto; 
+    width: 50%;
+    background: #b38383;
+    padding: 10px 5px 10px 10%;
+    margin-bottom: 20px;
+}
+
+
+form h2{
+    color: #fff;
+}
+
+
+.bg-color {
+    background-color: rgb(171, 41, 41);
+}
+  
+li{
+    list-style-type: none;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 1.4em;
+    
+}
+
+#outputlist{
+    list-style-type: none;
+}
+
+form input{
+    height: 40px;
+    font-size: 2em;
+    border-radius: 5px;
+    margin-top: 50px;
+}
